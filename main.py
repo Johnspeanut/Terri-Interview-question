@@ -41,6 +41,7 @@ def main():
     print("Of " + str(TOTAL_COMBINATION) + ", there are " + str(countNumber) +
           " that are solvable." + " And the probability is " +
           str(float(countNumber)/TOTAL_COMBINATION))
+    
 
 
 if __name__ == "__main__":
